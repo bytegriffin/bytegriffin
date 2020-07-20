@@ -1,7 +1,7 @@
 ### Hi there👋
 
-Thank you for taking the time to visit my github.
-- 😄 [github profile summary](https://profile-summary-for-github.com/user/bytegriffin) 
+Thank you for taking the time to visit my github website. <br>
+This is my 😄 [github profile summary](https://profile-summary-for-github.com/user/bytegriffin) 
 
 <!--
 <table><tr><td valign="top" width="50%" border="0">
