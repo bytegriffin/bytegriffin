@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi there👋    
 
 Thank you for taking the time to visit my github website. <br>
 This is my 😄 [github profile summary](https://profile-summary-for-github.com/user/bytegriffin) 
@@ -13,7 +13,12 @@ This is my 😄 [github profile summary](https://profile-summary-for-github.com/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 </td><td valign="top" width="50%">
 -->
-  
+<table><tr><td valign="top" width="50%" border="0">
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bytegriffin&show_icons=true&theme=gruvbox&hide=["contribs","prs"])](https://github.com/anuraghazra/github-readme-stats)
+
+</td><td valign="top" width="50%">
+  
+![:bytegriffin](https://count.getloli.com/get/@:bytegriffin)  
 
 </td></tr></table>
