@@ -13,12 +13,6 @@ This is my 😄 [github profile summary](https://profile-summary-for-github.com/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 </td><td valign="top" width="50%">
 -->
-<table border="0" style="border: 0px solid #151515"><tr><td valign="top" width="50%" >
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bytegriffin&show_icons=true&theme=gruvbox&hide=["contribs","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bytegriffin&show_icons=true&theme=gruvbox&hide=["contribs","prs"])](https://github.com/anuraghazra/github-readme-stats)    ![:bytegriffin](https://count.getloli.com/get/@:bytegriffin)  
 
-</td><td valign="top" width="50%">
-  
-![:bytegriffin](https://count.getloli.com/get/@:bytegriffin)  
-
-</td></tr></table>
