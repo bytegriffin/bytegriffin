@@ -1,7 +1,7 @@
 ### Hi there👋    
 
 Thank you for taking the time to visit my github website. <br>
-This is my 😄 [github profile summary](https://profile-summary-for-github.com/user/bytegriffin) 
+This is my 😄 [github profile summary](https://profile-summary-for-github.com/user/bytegriffin) <br>
 Email Me：bytegriffin@126.com
 
 <!--
